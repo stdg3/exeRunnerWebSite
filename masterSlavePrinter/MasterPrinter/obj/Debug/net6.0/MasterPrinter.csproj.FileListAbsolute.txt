@@ -1,0 +1,15 @@
+C:\Users\avelicoglo\Desktop\internProjects\asp6Denemeler\masterSlavePrinter\MasterPrinter\bin\Debug\net6.0\MasterPrinter.exe
+C:\Users\avelicoglo\Desktop\internProjects\asp6Denemeler\masterSlavePrinter\MasterPrinter\bin\Debug\net6.0\MasterPrinter.deps.json
+C:\Users\avelicoglo\Desktop\internProjects\asp6Denemeler\masterSlavePrinter\MasterPrinter\bin\Debug\net6.0\MasterPrinter.runtimeconfig.json
+C:\Users\avelicoglo\Desktop\internProjects\asp6Denemeler\masterSlavePrinter\MasterPrinter\bin\Debug\net6.0\MasterPrinter.dll
+C:\Users\avelicoglo\Desktop\internProjects\asp6Denemeler\masterSlavePrinter\MasterPrinter\bin\Debug\net6.0\MasterPrinter.pdb
+C:\Users\avelicoglo\Desktop\internProjects\asp6Denemeler\masterSlavePrinter\MasterPrinter\obj\Debug\net6.0\MasterPrinter.csproj.AssemblyReference.cache
+C:\Users\avelicoglo\Desktop\internProjects\asp6Denemeler\masterSlavePrinter\MasterPrinter\obj\Debug\net6.0\MasterPrinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avelicoglo\Desktop\internProjects\asp6Denemeler\masterSlavePrinter\MasterPrinter\obj\Debug\net6.0\MasterPrinter.AssemblyInfoInputs.cache
+C:\Users\avelicoglo\Desktop\internProjects\asp6Denemeler\masterSlavePrinter\MasterPrinter\obj\Debug\net6.0\MasterPrinter.AssemblyInfo.cs
+C:\Users\avelicoglo\Desktop\internProjects\asp6Denemeler\masterSlavePrinter\MasterPrinter\obj\Debug\net6.0\MasterPrinter.csproj.CoreCompileInputs.cache
+C:\Users\avelicoglo\Desktop\internProjects\asp6Denemeler\masterSlavePrinter\MasterPrinter\obj\Debug\net6.0\MasterPrinter.dll
+C:\Users\avelicoglo\Desktop\internProjects\asp6Denemeler\masterSlavePrinter\MasterPrinter\obj\Debug\net6.0\refint\MasterPrinter.dll
+C:\Users\avelicoglo\Desktop\internProjects\asp6Denemeler\masterSlavePrinter\MasterPrinter\obj\Debug\net6.0\MasterPrinter.pdb
+C:\Users\avelicoglo\Desktop\internProjects\asp6Denemeler\masterSlavePrinter\MasterPrinter\obj\Debug\net6.0\MasterPrinter.genruntimeconfig.cache
+C:\Users\avelicoglo\Desktop\internProjects\asp6Denemeler\masterSlavePrinter\MasterPrinter\obj\Debug\net6.0\ref\MasterPrinter.dll
